@@ -1,0 +1,9 @@
+
+venv/
+ai-resume-job-matcher/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+app_backup.py
+app_backup_before_ui.py
